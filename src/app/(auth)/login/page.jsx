@@ -1,6 +1,6 @@
 import { hangleGithubLogin, login } from "@/lib/action";
 import React from "react";
-import LoginFrom from "@/components/loginForm/loginForm";
+import LoginFrom from "@/components/loginForm/LoginForm";
 import styles from "./login.module.css";
 
 const LoginPage = () => {
